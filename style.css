@@ -1,0 +1,26 @@
+/* Gradient background for hero section */
+.hero-section {
+    background: linear-gradient(135deg, #4e73df, #224abe);
+    color: white;
+    padding: 4rem 0;
+}
+
+/* Card styling */
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+/* Upload area */
+#wasteImage {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+/* Result display */
+#result {
+    min-height: 100px;
+    border: 2px dashed #eee;
+    border-radius: 5px;
+    padding: 1rem;
+}                                               
